@@ -1,0 +1,157 @@
+/* styles for lg size */
+@media (min-width: 992px) {
+    #nav-list {
+        /* margin-top: 50px; */
+        display: flex;
+        /* background-color: white; */
+        height: 10px;
+        border: 0px;
+        /* z-index: 5; */
+        /* top: 1000; */
+        /* padding-top: 5px; */
+        padding-left: 400px
+    }
+
+    #nav-list li {
+        list-style-type: none;
+        padding: 20px;
+        border-radius: 10px;
+        transition: background 1s;
+        color: grey;
+        font-weight: 500;
+        font-size: 20px
+    }
+
+    #nav-list li:hover {
+        cursor: pointer;
+        /*underlne*/
+
+    }
+
+    .theme {
+        padding: 13px;
+        margin: 13px;
+        border: none;
+        border-radius: 10px;
+        font-weight: 600;
+    }
+
+    #normal {
+        background-color: #fff;
+    }
+
+    #dark {
+        background-color: #000;
+        color: #fff;
+    }
+
+    .theme:hover {
+        cursor: pointer;
+    }
+}
+
+/* styles for sm size */
+@media (max-width: 991px) {
+    #nav-list {
+        /* margin-top: 50px; */
+        display: flex;
+        flex-direction: row;
+        width: 300px;
+        /* background-color: white; */
+        /* height: 30px; */
+        border: 0px;
+        /* z-index: 5; */
+        /* top: 1000; */
+        padding-top: 5px;
+        padding-left: 10px;
+
+        overflow-x: auto;
+    }
+
+    #nav-list li {
+        list-style-type: none;
+        padding: 20px;
+        border-radius: 10px;
+        transition: background 1s;
+        color: grey;
+        font-weight: 500;
+        font-size: 20px
+    }
+
+    #nav-list li:hover {
+        cursor: pointer;
+        /*underlne*/
+
+    }
+
+    .theme {
+        padding: 13px;
+        margin: 13px;
+        border: none;
+        border-radius: 10px;
+        font-weight: 600;
+    }
+
+    #normal {
+        background-color: #fff;
+    }
+
+    #dark {
+        background-color: #000;
+        color: #fff;
+    }
+
+    .theme:hover {
+        cursor: pointer;
+    }
+}
+
+.custom-focused-input {
+    border-bottom: 2px solid black;
+    outline: red;
+    /* Change the border color when the input is in focus */
+}
+
+.hamburger-menu {
+    position: relative;
+}
+
+.hamburger-icon {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+
+.bar {
+    width: 25px;
+    height: 3px;
+    background: #333;
+    margin: 2px auto;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+.menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    border: 1px solid #333;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu button {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 0;
+}
+
+.menu button:hover {
+    background-color: grey;
+}
