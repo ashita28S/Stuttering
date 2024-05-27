@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/Stuttering/static/css/main.f855e6bc.css",
-    "main.js": "/Stuttering/static/js/main.17e40f4a.js",
-    "static/js/453.e5f1ac47.chunk.js": "/Stuttering/static/js/453.e5f1ac47.chunk.js",
-    "static/media/logo.svg": "/Stuttering/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Stuttering/index.html",
-    "main.f855e6bc.css.map": "/Stuttering/static/css/main.f855e6bc.css.map",
-    "main.17e40f4a.js.map": "/Stuttering/static/js/main.17e40f4a.js.map",
-    "453.e5f1ac47.chunk.js.map": "/Stuttering/static/js/453.e5f1ac47.chunk.js.map"
+    "main.css": "/static/css/main.7741628d.css",
+    "main.js": "/static/js/main.c66399d4.js",
+    "static/js/453.de37f20b.chunk.js": "/static/js/453.de37f20b.chunk.js",
+    "static/media/Malayalam.png": "/static/media/Malayalam.a9900bd588a4d37ee56f.png",
+    "static/media/Telugu.png": "/static/media/Telugu.cc8d4265150c5544bcb0.png",
+    "static/media/Tamil.png": "/static/media/Tamil.d1a681266d24987e848b.png",
+    "static/media/Kannada.png": "/static/media/Kannada.b723848282ecc62567d7.png",
+    "static/media/Assamese.png": "/static/media/Assamese.49179fb066e8638c6e65.png",
+    "static/media/Nepali.png": "/static/media/Nepali.4d4cc7692ad194fb2ad4.png",
+    "static/media/Bengali.png": "/static/media/Bengali.f65b891a7672ea4be714.png",
+    "static/media/Marathi.png": "/static/media/Marathi.2e19271db6f57198137f.png",
+    "static/media/Punjabi.png": "/static/media/Punjabi.e1572bbf1b35692e085e.png",
+    "static/media/Odia.png": "/static/media/Odia.7be1844d6adc46c56b42.png",
+    "static/media/Sanskrit.png": "/static/media/Sanskrit.0b59e6f32a0fb5a3c45f.png",
+    "static/media/English.png": "/static/media/English.a515c6e136c6c68b21cc.png",
+    "static/media/Urdu.png": "/static/media/Urdu.1bccfc4c806df1c4ac0e.png",
+    "static/media/Hindi.png": "/static/media/Hindi.071faca3c676d9367043.png",
+    "static/media/Gujarati.png": "/static/media/Gujarati.5dd7064dc8c672b6fa84.png",
+    "index.html": "/index.html",
+    "main.7741628d.css.map": "/static/css/main.7741628d.css.map",
+    "main.c66399d4.js.map": "/static/js/main.c66399d4.js.map",
+    "453.de37f20b.chunk.js.map": "/static/js/453.de37f20b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.17e40f4a.js"
+    "static/css/main.7741628d.css",
+    "static/js/main.c66399d4.js"
   ]
 }
