@@ -1,0 +1,5 @@
+.custom-focused-input {
+    border-bottom: 2px solid black;
+    outline: none;
+    /* Change the border color when the input is in focus */
+}
